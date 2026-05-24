@@ -1,0 +1,9 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar fotos de teste
+*.jpg
+*.png
+
+# Ignorar futuras chaves secretas
+.env
