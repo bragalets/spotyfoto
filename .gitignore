@@ -5,5 +5,8 @@ venv/
 *.jpg
 *.png
 
-# Ignorar futuras chaves secretas
+# Ignorar o cofre de chaves secretas
 .env
+
+# Ignorar atalhos do Windows
+*.bat
